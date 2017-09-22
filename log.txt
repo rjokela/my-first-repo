@@ -1,0 +1,17 @@
+commit b5fc8157163d8b3d352b6ad0c9ae4e76bf58bd2e
+Author: rjokela <raujokela@gmail.com>
+Date:   Thu Sep 21 19:53:35 2017 +0300
+
+    added gitignore
+
+commit 050e2f79b25ce88899025eb0dd384ae428870db6
+Author: rjokela <raujokela@gmail.com>
+Date:   Thu Sep 21 19:19:03 2017 +0300
+
+    added two files
+
+commit 99dbeb3d093e071b939992b7b7757f8ef86055e5
+Author: rjokela <raujokela@gmail.com>
+Date:   Thu Sep 21 19:14:18 2017 +0300
+
+    added readme.txt
